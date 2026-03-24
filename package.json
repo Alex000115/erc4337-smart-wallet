@@ -1,0 +1,10 @@
+{
+  "name": "erc4337-smart-wallet",
+  "version": "1.0.0",
+  "description": "ERC-4337 Account Abstraction Wallet",
+  "dependencies": {
+    "@account-abstraction/contracts": "^0.6.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
